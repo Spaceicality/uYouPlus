@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/qnblackcat/uYouPlus/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Spaceicality/uYouPlus?color=brightgreen&label=Latest%20release" alt="Badge"></img></a>
-    <a href="https://github.com/qnblackcat/uYouPlus/releases/latest"><img src="https://img.shields.io/github/downloads/Spaceicality/uYouPlus/total?label=Download" alt="Badge"></img></a>
-    <a href="https://github.com/qnblackcat/uYouPlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Spaceicality/uYouPlus?logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
+    <a href="https://github.com/Spaceicality/uYouPlus/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/Spaceicality/uYouPlus?color=brightgreen&label=Latest%20release" alt="Badge"></img></a>
+    <a href="https://github.com/Spaceicality/uYouPlus/releases/latest"><img src="https://img.shields.io/github/downloads/Spaceicality/uYouPlus/total?label=Download" alt="Badge"></img></a>
+    <a href="https://github.com/Spaceicality/uYouPlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/Spaceicality/uYouPlus?logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
 
 </p>
 
