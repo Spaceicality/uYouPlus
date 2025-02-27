@@ -24,6 +24,9 @@
 </p>
 
 > [!NOTE]
+> This is a **built version** of uYouPlus. uYouPlus will be maintained by the developers of uYouPlus.
+
+> [!NOTE]
 > uYouPlus is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
 
 ## Table of contents
