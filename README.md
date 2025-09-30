@@ -1,4 +1,7 @@
-# uYouPlus
+# uYouPlus is no longer recommended.
+
+- uYouPlus has officially been discontinued by the developers, and I feel its time to say goodbye to new releases now. The final release will stay at v20.38.4-3.0.4 as I have no plans to continue this project.
+- If you would like a version of YouTube that is better, try [YTLite](https://github.com/dayanch96/YTLite).
 
 ![Image 2](https://github.com/qnblackcat/uYouPlus/assets/77606385/c1a1c58a-5d4d-48a6-bb98-d00086719ccc)
 <!--![Image](https://github.com/therealFoxster/uYouPlus/assets/77606385/eb34d3e3-a679-45d0-b2e5-01fdd459ce63)-->
